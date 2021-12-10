@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab1.Variant2Test" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-10-23T18:17:39" hostname="DESKTOP-NS3U70V" time="0.046">
+  <properties/>
+  <testcase name="arrays[0](4, [I@37ce613c)" classname="lab1.Variant2Test" time="0.007"/>
+  <testcase name="bolean[0](5, false)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="bolean[1](2, true)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="cases[0](1, РїР»РѕС…Рѕ)" classname="lab1.Variant2Test" time="0.001"/>
+  <testcase name="cases[1](4, С…РѕСЂРѕС€Рѕ)" classname="lab1.Variant2Test" time="0.001"/>
+  <testcase name="cases[2](6, РѕС€РёР±РєР°)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="forparametr[0](4, 9, [I@71f80fd)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="ife[0](5, 6)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="ife[1](-2, -4)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="integer[0](200, 0.2)" classname="lab1.Variant2Test" time="0.001"/>
+  <testcase name="integer[1](50, 0.05)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="matrixs[0](3, 3, [[I@56758012)" classname="lab1.Variant2Test" time="0.001"/>
+  <testcase name="minmax[0](1, [D@1ffffd8b, [D@2f31c2f1, 24)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="negativeArray" classname="lab1.Variant2Test" time="0.001"/>
+  <testcase name="negativeForparametr" classname="lab1.Variant2Test" time="0.001"/>
+  <testcase name="negativeWhile" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="whiles[0](8, 3, 2)" classname="lab1.Variant2Test" time="0.0"/>
+  <testcase name="whiles[1](10, 6, 1)" classname="lab1.Variant2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
